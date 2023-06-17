@@ -1,6 +1,6 @@
 # BetriebsstellenInfo
 ## Description
-The BetriebsstellenInfo endpoint provides information about operating stations. The user has to enter the RL-100 code when calling up the endpoint and then receives information about the operating station as output.
+The BetriebsstellenInfo application provides an endpoint that delivers information about operating stations. The user has to enter the RL-100 code when calling up the endpoint and then receives information about the operating station as output.
 ## How to run project
 To run the project correctly, a web server like uvicorn is also required. First you have to start with installing the necessary packages. This can be done via
 ```
