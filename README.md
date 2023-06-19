@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 If all necessary packages are installed correctly the API can be started with the following command
 ```
-uvicorn main:app --host 127.0.0.1 --port 80
+uvicorn main:app --host 127.0.0.1 --port 8000
 ```
 
 The app will then run on port 80 at host 127.0.0.1 and can be called from there.
